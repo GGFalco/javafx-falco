@@ -1,4 +1,4 @@
-package com.example.peoplemanager;
+package com.example.db_example;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
